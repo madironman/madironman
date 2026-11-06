@@ -1,10 +1,9 @@
-### Hi, I'm Madhevan.
+### Madhevan Ramalingam
 
-Firmware and SoC systems engineer in Chennai. Six years on 802.11 Wi-Fi silicon: low-power architecture, pre-silicon bring-up on hardware emulators, and the debug tooling a bring-up runs on. I work where the bug could be in the firmware, the RTL, or the clock tree, and the only way to find out is to read all three.
+WLAN firmware and driver engineer in Chennai. 6+ years in embedded systems, most of them on 802.11 WLAN silicon: low-power SoC architecture, pre-silicon bring-up, and host–firmware transports over PCIe, SDIO and on-die AXI. Now working on a Windows Wi-Fi 6/6E driver.
 
-- **Site and writing:** [madironman.github.io](https://madironman.github.io)
-- **Latest note:** [Phantom interrupts at a clock-domain crossing](https://madironman.github.io/writing/spurious-interrupt-two-clock-domains)
-- **Stack:** C, ARM assembly (Cortex-R / M), Python, FreeRTOS, embedded Linux, JTAG / ADIv5, OpenOCD, PCIe / SDIO / AXI
-- **Reach me:** madhevan1998@gmail.com · [LinkedIn](https://www.linkedin.com/in/madhevan-ramalingam-4934ab32a/)
+I work from RTL waveforms through Cortex-R4/M firmware to the debug and automation infrastructure a bring-up runs on. C is my primary language; I use Python, TCL and C# for tooling.
 
-Ask me about clock-domain crossings, why your sleep current is 3 mA too high, or which Iron Man suit had the best HUD.
+- Site: [madironman.github.io](https://madironman.github.io)
+- LinkedIn: [linkedin.com/in/madhevan-ramalingam](https://www.linkedin.com/in/madhevan-ramalingam)
+- Email: madhevan1998@gmail.com
